@@ -56,3 +56,21 @@ with open('updated_training_data.csv', 'w', newline="") as my_file:
 
 
         writer.writerow([home_team, away_team, row['Home_Team_Rating'], row['Away_Team_Rating'], home_win_percentage, home_draw_percentage, away_win_percentage, away_draw_percentage, row['Winner']])
+
+
+with open('team_stats.csv', 'w', newline="") as my_file:
+    writer = csv.writer(my_file)
+    writer.writerow(['Team', 'Wins', 'Draws', 'Losses', 'Total Matches', 'Win Percentage', 'Draw Percentage', 'Loss Percentage'])
+
+    for team in team_data:
+        total_matches = team_data[team][2]
+        wins = team_data[team][0]
+        draws = team_data[team][1]
+        losses = total_matches - (wins + draws)
+
+        win_percentage = round((wins / total_matches) * 100, 2) if total_matches > 0 else 0
+        draw_percentage = round((draws / total_matches) * 100, 2) if total_matches > 0 else 0
+        loss_percentage = round((losses / total_matches) * 100, 2) if total_matches > 0 else 0
+
+        writer.writerow([team, wins, draws, losses, total_matches, win_percentage, draw_percentage, loss_percentage])
+
