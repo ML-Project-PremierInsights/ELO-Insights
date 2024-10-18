@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 
 
-dataset = pd.read_csv('../Datasets/training_dataset.csv')
+dataset = pd.read_csv('../Datasets/ELO_ratings.csv')
 dataset = dataset.reset_index()
 
 team_data = {}
@@ -52,7 +52,7 @@ with open('../Datasets/updated_training_data.csv', 'w', newline="") as my_file:
 
             team_data[home_team][2] += 1
 
-        writer.writerow([home_team, away_team, row['Home_Team_Rating'], row['Away_Team_Rating'], home_win_percentage, home_draw_percentage, away_win_percentage, away_draw_percentage, row['Winner']])
+        writer.writerow([home_team, away_team, row['Home Team Rating'], row['Away Team Rating'], home_win_percentage, home_draw_percentage, away_win_percentage, away_draw_percentage, row['Winner']])
 
 
 with open('team_stats.csv', 'w', newline="") as my_file:
