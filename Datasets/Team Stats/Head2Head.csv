@@ -1,0 +1,943 @@
+Home,Away,Win Percentage,Draw Percentage,Matches,Wins,Draws
+Stoke City,Manchester City,25.0,12.5,8,2,1
+Stoke City,West Ham,12.5,75.0,8,1,6
+Stoke City,Leicester City,12.5,50.0,8,1,4
+Stoke City,Southampton,50.0,25.0,8,4,2
+Stoke City,Bournemouth,33.33333333333333,16.666666666666664,6,2,1
+Stoke City,Newcastle Utd,33.33333333333333,33.33333333333333,6,2,2
+Stoke City,Middlesbrough,50.0,50.0,2,1,1
+Stoke City,Hull City,75.0,25.0,4,3,1
+Stoke City,Chelsea,12.5,12.5,8,1,1
+Stoke City,Crystal Palace,12.5,12.5,8,1,1
+Stoke City,Tottenham,25.0,12.5,8,2,1
+Stoke City,Huddersfield,50.0,50.0,2,1,1
+Stoke City,Sunderland,33.33333333333333,33.33333333333333,6,2,2
+Stoke City,Everton,37.5,12.5,8,3,1
+Stoke City,Swansea City,62.5,12.5,8,5,1
+Stoke City,Manchester Utd,12.5,50.0,8,1,4
+Stoke City,Liverpool,12.5,12.5,8,1,1
+Stoke City,Norwich City,50.0,50.0,2,1,1
+Stoke City,Arsenal,25.0,12.5,8,2,1
+Stoke City,Brighton,0.0,100.0,2,0,2
+Stoke City,QPR,50.0,50.0,2,1,1
+Stoke City,Watford,66.66666666666666,16.666666666666664,6,4,1
+Stoke City,Aston Villa,75.0,0.0,4,3,0
+Stoke City,West Brom,25.0,25.0,8,2,2
+Stoke City,Burnley,16.666666666666664,33.33333333333333,6,1,2
+Manchester City,Stoke City,62.5,12.5,8,5,1
+Manchester City,West Ham,75.0,15.0,20,15,3
+Manchester City,Leicester City,72.22222222222221,5.555555555555555,18,13,1
+Manchester City,Southampton,72.22222222222221,16.666666666666664,18,13,3
+Manchester City,Bournemouth,100.0,0.0,14,14,0
+Manchester City,Newcastle Utd,77.77777777777779,16.666666666666664,18,14,3
+Manchester City,Middlesbrough,0.0,100.0,2,0,2
+Manchester City,Hull City,75.0,25.0,4,3,1
+Manchester City,Cardiff City,100.0,0.0,2,2,0
+Manchester City,Wolves,66.66666666666666,8.333333333333332,12,8,1
+Manchester City,Chelsea,55.00000000000001,20.0,20,11,4
+Manchester City,Crystal Palace,65.0,20.0,20,13,4
+Manchester City,Tottenham,45.0,15.0,20,9,3
+Manchester City,Fulham,100.0,0.0,8,8,0
+Manchester City,Huddersfield,75.0,25.0,4,3,1
+Manchester City,Sunderland,100.0,0.0,6,6,0
+Manchester City,Sheffield Utd,100.0,0.0,6,6,0
+Manchester City,Brentford,66.66666666666666,0.0,6,4,0
+Manchester City,Everton,70.0,25.0,20,14,5
+Manchester City,Swansea City,87.5,12.5,8,7,1
+Manchester City,Manchester Utd,50.0,15.0,20,10,3
+Manchester City,Liverpool,30.0,35.0,20,6,7
+Manchester City,Norwich City,66.66666666666666,16.666666666666664,6,4,1
+Manchester City,Arsenal,65.0,20.0,20,13,4
+Manchester City,Leeds United,66.66666666666666,16.666666666666664,6,4,1
+Manchester City,Nott'ham Forest,75.0,25.0,4,3,1
+Manchester City,Brighton,85.71428571428571,7.142857142857142,14,12,1
+Manchester City,QPR,50.0,50.0,2,1,1
+Manchester City,Watford,100.0,0.0,12,12,0
+Manchester City,Aston Villa,78.57142857142857,14.285714285714285,14,11,2
+Manchester City,West Brom,90.0,10.0,10,9,1
+Manchester City,Luton Town,100.0,0.0,2,2,0
+Manchester City,Burnley,81.25,12.5,16,13,2
+West Ham,Stoke City,12.5,75.0,8,1,6
+West Ham,Manchester City,10.0,15.0,20,2,3
+West Ham,Leicester City,27.77777777777778,27.77777777777778,18,5,5
+West Ham,Southampton,50.0,22.22222222222222,18,9,4
+West Ham,Bournemouth,35.714285714285715,35.714285714285715,14,5,5
+West Ham,Newcastle Utd,27.77777777777778,22.22222222222222,18,5,4
+West Ham,Middlesbrough,50.0,50.0,2,1,1
+West Ham,Hull City,50.0,25.0,4,2,1
+West Ham,Cardiff City,50.0,0.0,2,1,0
+West Ham,Wolves,50.0,0.0,12,6,0
+West Ham,Chelsea,30.0,20.0,20,6,4
+West Ham,Crystal Palace,35.0,35.0,20,7,7
+West Ham,Tottenham,30.0,25.0,20,6,5
+West Ham,Fulham,62.5,12.5,8,5,1
+West Ham,Huddersfield,75.0,25.0,4,3,1
+West Ham,Sunderland,50.0,50.0,6,3,3
+West Ham,Sheffield Utd,50.0,33.33333333333333,6,3,2
+West Ham,Brentford,16.666666666666664,0.0,6,1,0
+West Ham,Everton,40.0,15.0,20,8,3
+West Ham,Swansea City,50.0,25.0,8,4,2
+West Ham,Manchester Utd,25.0,25.0,20,5,5
+West Ham,Liverpool,20.0,15.0,20,4,3
+West Ham,Norwich City,66.66666666666666,33.33333333333333,6,4,2
+West Ham,Arsenal,15.0,20.0,20,3,4
+West Ham,Leeds United,66.66666666666666,16.666666666666664,6,4,1
+West Ham,Nott'ham Forest,50.0,0.0,4,2,0
+West Ham,Brighton,7.142857142857142,50.0,14,1,7
+West Ham,QPR,50.0,50.0,2,1,1
+West Ham,Watford,58.333333333333336,8.333333333333332,12,7,1
+West Ham,Aston Villa,42.857142857142854,42.857142857142854,14,6,6
+West Ham,West Brom,50.0,40.0,10,5,4
+West Ham,Luton Town,100.0,0.0,2,2,0
+West Ham,Burnley,50.0,25.0,16,8,4
+Leicester City,Stoke City,37.5,50.0,8,3,4
+Leicester City,Manchester City,22.22222222222222,5.555555555555555,18,4,1
+Leicester City,West Ham,44.44444444444444,27.77777777777778,18,8,5
+Leicester City,Southampton,38.88888888888889,27.77777777777778,18,7,5
+Leicester City,Bournemouth,16.666666666666664,41.66666666666667,12,2,5
+Leicester City,Newcastle Utd,56.25,6.25,16,9,1
+Leicester City,Middlesbrough,0.0,100.0,2,0,2
+Leicester City,Hull City,50.0,25.0,4,2,1
+Leicester City,Cardiff City,50.0,0.0,2,1,0
+Leicester City,Wolves,50.0,30.0,10,5,3
+Leicester City,Chelsea,16.666666666666664,33.33333333333333,18,3,6
+Leicester City,Crystal Palace,38.88888888888889,22.22222222222222,18,7,4
+Leicester City,Tottenham,27.77777777777778,11.11111111111111,18,5,2
+Leicester City,Fulham,33.33333333333333,16.666666666666664,6,2,1
+Leicester City,Huddersfield,75.0,25.0,4,3,1
+Leicester City,Sunderland,50.0,33.33333333333333,6,3,2
+Leicester City,Sheffield Utd,100.0,0.0,4,4,0
+Leicester City,Brentford,50.0,50.0,4,2,2
+Leicester City,Everton,33.33333333333333,27.77777777777778,18,6,5
+Leicester City,Swansea City,62.5,12.5,8,5,1
+Leicester City,Manchester Utd,16.666666666666664,27.77777777777778,18,3,5
+Leicester City,Liverpool,22.22222222222222,11.11111111111111,18,4,2
+Leicester City,Norwich City,66.66666666666666,16.666666666666664,6,4,1
+Leicester City,Arsenal,22.22222222222222,16.666666666666664,18,4,3
+Leicester City,Leeds United,50.0,33.33333333333333,6,3,2
+Leicester City,Nott'ham Forest,50.0,0.0,2,1,0
+Leicester City,Brighton,50.0,33.33333333333333,12,6,4
+Leicester City,QPR,50.0,0.0,2,1,0
+Leicester City,Watford,66.66666666666666,8.333333333333332,12,8,1
+Leicester City,Aston Villa,50.0,16.666666666666664,12,6,2
+Leicester City,West Brom,60.0,20.0,10,6,2
+Leicester City,Burnley,50.0,28.57142857142857,14,7,4
+Southampton,Stoke City,25.0,25.0,8,2,2
+Southampton,Manchester City,11.11111111111111,16.666666666666664,18,2,3
+Southampton,West Ham,27.77777777777778,22.22222222222222,18,5,4
+Southampton,Leicester City,33.33333333333333,27.77777777777778,18,6,5
+Southampton,Bournemouth,41.66666666666667,33.33333333333333,12,5,4
+Southampton,Newcastle Utd,25.0,25.0,16,4,4
+Southampton,Middlesbrough,100.0,0.0,2,2,0
+Southampton,Hull City,50.0,25.0,4,2,1
+Southampton,Cardiff City,0.0,0.0,2,0,0
+Southampton,Wolves,10.0,20.0,10,1,2
+Southampton,Chelsea,22.22222222222222,27.77777777777778,18,4,5
+Southampton,Crystal Palace,44.44444444444444,16.666666666666664,18,8,3
+Southampton,Tottenham,22.22222222222222,22.22222222222222,18,4,4
+Southampton,Fulham,33.33333333333333,16.666666666666664,6,2,1
+Southampton,Huddersfield,25.0,75.0,4,1,3
+Southampton,Sunderland,50.0,33.33333333333333,6,3,2
+Southampton,Sheffield Utd,100.0,0.0,4,4,0
+Southampton,Brentford,25.0,0.0,4,1,0
+Southampton,Everton,38.88888888888889,16.666666666666664,18,7,3
+Southampton,Swansea City,62.5,12.5,8,5,1
+Southampton,Manchester Utd,11.11111111111111,44.44444444444444,18,2,8
+Southampton,Liverpool,11.11111111111111,22.22222222222222,18,2,4
+Southampton,Norwich City,66.66666666666666,0.0,6,4,0
+Southampton,Arsenal,22.22222222222222,33.33333333333333,18,4,6
+Southampton,Leeds United,16.666666666666664,33.33333333333333,6,1,2
+Southampton,Nott'ham Forest,0.0,0.0,2,0,0
+Southampton,Brighton,25.0,50.0,12,3,6
+Southampton,QPR,100.0,0.0,2,2,0
+Southampton,Watford,41.66666666666667,41.66666666666667,12,5,5
+Southampton,Aston Villa,50.0,16.666666666666664,12,6,2
+Southampton,West Brom,50.0,20.0,10,5,2
+Southampton,Burnley,28.57142857142857,28.57142857142857,14,4,4
+Bournemouth,Stoke City,50.0,16.666666666666664,6,3,1
+Bournemouth,Manchester City,0.0,0.0,14,0,0
+Bournemouth,West Ham,28.57142857142857,35.714285714285715,14,4,5
+Bournemouth,Leicester City,41.66666666666667,41.66666666666667,12,5,5
+Bournemouth,Southampton,25.0,33.33333333333333,12,3,4
+Bournemouth,Newcastle Utd,25.0,41.66666666666667,12,3,5
+Bournemouth,Middlesbrough,50.0,0.0,2,1,0
+Bournemouth,Hull City,50.0,0.0,2,1,0
+Bournemouth,Cardiff City,50.0,0.0,2,1,0
+Bournemouth,Wolves,25.0,25.0,8,2,2
+Bournemouth,Chelsea,28.57142857142857,14.285714285714285,14,4,2
+Bournemouth,Crystal Palace,28.57142857142857,28.57142857142857,14,4,4
+Bournemouth,Tottenham,14.285714285714285,14.285714285714285,14,2,2
+Bournemouth,Fulham,50.0,16.666666666666664,6,3,1
+Bournemouth,Huddersfield,75.0,0.0,4,3,0
+Bournemouth,Sunderland,50.0,25.0,4,2,1
+Bournemouth,Sheffield Utd,25.0,50.0,4,1,2
+Bournemouth,Brentford,0.0,50.0,4,0,2
+Bournemouth,Everton,42.857142857142854,14.285714285714285,14,6,2
+Bournemouth,Swansea City,66.66666666666666,33.33333333333333,6,4,2
+Bournemouth,Manchester Utd,21.428571428571427,14.285714285714285,14,3,2
+Bournemouth,Liverpool,14.285714285714285,7.142857142857142,14,2,1
+Bournemouth,Norwich City,25.0,25.0,4,1,1
+Bournemouth,Arsenal,7.142857142857142,14.285714285714285,14,1,2
+Bournemouth,Leeds United,50.0,0.0,2,1,0
+Bournemouth,Nott'ham Forest,50.0,50.0,4,2,2
+Bournemouth,Brighton,50.0,10.0,10,5,1
+Bournemouth,Watford,10.0,70.0,10,1,7
+Bournemouth,Aston Villa,50.0,12.5,8,4,1
+Bournemouth,West Brom,50.0,16.666666666666664,6,3,1
+Bournemouth,Luton Town,50.0,0.0,2,1,0
+Bournemouth,Burnley,40.0,0.0,10,4,0
+Newcastle Utd,Stoke City,33.33333333333333,33.33333333333333,6,2,2
+Newcastle Utd,Manchester City,5.555555555555555,16.666666666666664,18,1,3
+Newcastle Utd,West Ham,50.0,22.22222222222222,18,9,4
+Newcastle Utd,Leicester City,37.5,6.25,16,6,1
+Newcastle Utd,Southampton,50.0,25.0,16,8,4
+Newcastle Utd,Bournemouth,33.33333333333333,41.66666666666667,12,4,5
+Newcastle Utd,Hull City,50.0,50.0,2,1,1
+Newcastle Utd,Cardiff City,50.0,50.0,2,1,1
+Newcastle Utd,Wolves,25.0,58.333333333333336,12,3,7
+Newcastle Utd,Chelsea,27.77777777777778,11.11111111111111,18,5,2
+Newcastle Utd,Crystal Palace,33.33333333333333,38.88888888888889,18,6,7
+Newcastle Utd,Tottenham,38.88888888888889,11.11111111111111,18,7,2
+Newcastle Utd,Fulham,75.0,25.0,8,6,2
+Newcastle Utd,Huddersfield,75.0,0.0,4,3,0
+Newcastle Utd,Sunderland,0.0,25.0,4,0,1
+Newcastle Utd,Sheffield Utd,83.33333333333334,0.0,6,5,0
+Newcastle Utd,Brentford,83.33333333333334,16.666666666666664,6,5,1
+Newcastle Utd,Everton,38.88888888888889,16.666666666666664,18,7,3
+Newcastle Utd,Swansea City,33.33333333333333,33.33333333333333,6,2,2
+Newcastle Utd,Manchester Utd,22.22222222222222,22.22222222222222,18,4,4
+Newcastle Utd,Liverpool,11.11111111111111,22.22222222222222,18,2,4
+Newcastle Utd,Norwich City,33.33333333333333,33.33333333333333,6,2,2
+Newcastle Utd,Arsenal,16.666666666666664,5.555555555555555,18,3,1
+Newcastle Utd,Leeds United,16.666666666666664,50.0,6,1,3
+Newcastle Utd,Nott'ham Forest,75.0,0.0,4,3,0
+Newcastle Utd,Brighton,14.285714285714285,50.0,14,2,7
+Newcastle Utd,QPR,50.0,0.0,2,1,0
+Newcastle Utd,Watford,10.0,40.0,10,1,4
+Newcastle Utd,Aston Villa,35.714285714285715,35.714285714285715,14,5,5
+Newcastle Utd,West Brom,37.5,37.5,8,3,3
+Newcastle Utd,Luton Town,0.0,50.0,2,0,1
+Newcastle Utd,Burnley,57.14285714285714,28.57142857142857,14,8,4
+Middlesbrough,Stoke City,0.0,50.0,2,0,1
+Middlesbrough,Manchester City,0.0,100.0,2,0,2
+Middlesbrough,West Ham,0.0,50.0,2,0,1
+Middlesbrough,Leicester City,0.0,100.0,2,0,2
+Middlesbrough,Southampton,0.0,0.0,2,0,0
+Middlesbrough,Bournemouth,50.0,0.0,2,1,0
+Middlesbrough,Hull City,50.0,0.0,2,1,0
+Middlesbrough,Chelsea,0.0,0.0,2,0,0
+Middlesbrough,Crystal Palace,0.0,0.0,2,0,0
+Middlesbrough,Tottenham,0.0,0.0,2,0,0
+Middlesbrough,Sunderland,100.0,0.0,2,2,0
+Middlesbrough,Everton,0.0,50.0,2,0,1
+Middlesbrough,Swansea City,50.0,50.0,2,1,1
+Middlesbrough,Manchester Utd,0.0,0.0,2,0,0
+Middlesbrough,Liverpool,0.0,0.0,2,0,0
+Middlesbrough,Arsenal,0.0,50.0,2,0,1
+Middlesbrough,Watford,0.0,50.0,2,0,1
+Middlesbrough,West Brom,0.0,100.0,2,0,2
+Middlesbrough,Burnley,0.0,50.0,2,0,1
+Hull City,Stoke City,0.0,25.0,4,0,1
+Hull City,Manchester City,0.0,25.0,4,0,1
+Hull City,West Ham,25.0,25.0,4,1,1
+Hull City,Leicester City,25.0,25.0,4,1,1
+Hull City,Southampton,25.0,25.0,4,1,1
+Hull City,Bournemouth,50.0,0.0,2,1,0
+Hull City,Newcastle Utd,0.0,50.0,2,0,1
+Hull City,Middlesbrough,50.0,0.0,2,1,0
+Hull City,Chelsea,0.0,0.0,4,0,0
+Hull City,Crystal Palace,50.0,25.0,4,2,1
+Hull City,Tottenham,0.0,0.0,4,0,0
+Hull City,Sunderland,25.0,25.0,4,1,1
+Hull City,Everton,25.0,50.0,4,1,2
+Hull City,Swansea City,50.0,0.0,4,2,0
+Hull City,Manchester Utd,0.0,50.0,4,0,2
+Hull City,Liverpool,50.0,25.0,4,2,1
+Hull City,Arsenal,0.0,25.0,4,0,1
+Hull City,QPR,100.0,0.0,2,2,0
+Hull City,Watford,50.0,0.0,2,1,0
+Hull City,Aston Villa,50.0,0.0,2,1,0
+Hull City,West Brom,0.0,50.0,4,0,2
+Hull City,Burnley,0.0,50.0,4,0,2
+Cardiff City,Manchester City,0.0,0.0,2,0,0
+Cardiff City,West Ham,50.0,0.0,2,1,0
+Cardiff City,Leicester City,50.0,0.0,2,1,0
+Cardiff City,Southampton,100.0,0.0,2,2,0
+Cardiff City,Bournemouth,50.0,0.0,2,1,0
+Cardiff City,Newcastle Utd,0.0,50.0,2,0,1
+Cardiff City,Wolves,50.0,0.0,2,1,0
+Cardiff City,Chelsea,0.0,0.0,2,0,0
+Cardiff City,Crystal Palace,0.0,50.0,2,0,1
+Cardiff City,Tottenham,0.0,0.0,2,0,0
+Cardiff City,Fulham,50.0,0.0,2,1,0
+Cardiff City,Huddersfield,0.0,100.0,2,0,2
+Cardiff City,Everton,0.0,0.0,2,0,0
+Cardiff City,Manchester Utd,50.0,0.0,2,1,0
+Cardiff City,Liverpool,0.0,0.0,2,0,0
+Cardiff City,Arsenal,0.0,0.0,2,0,0
+Cardiff City,Brighton,100.0,0.0,2,2,0
+Cardiff City,Watford,0.0,0.0,2,0,0
+Cardiff City,Burnley,0.0,0.0,2,0,0
+Wolves,Manchester City,25.0,8.333333333333332,12,3,1
+Wolves,West Ham,50.0,0.0,12,6,0
+Wolves,Leicester City,20.0,30.0,10,2,3
+Wolves,Southampton,70.0,20.0,10,7,2
+Wolves,Bournemouth,50.0,25.0,8,4,2
+Wolves,Newcastle Utd,16.666666666666664,58.333333333333336,12,2,7
+Wolves,Cardiff City,50.0,0.0,2,1,0
+Wolves,Chelsea,41.66666666666667,33.33333333333333,12,5,4
+Wolves,Crystal Palace,33.33333333333333,8.333333333333332,12,4,1
+Wolves,Tottenham,50.0,8.333333333333332,12,6,1
+Wolves,Fulham,50.0,37.5,8,4,3
+Wolves,Huddersfield,0.0,0.0,2,0,0
+Wolves,Sheffield Utd,50.0,16.666666666666664,6,3,1
+Wolves,Brentford,50.0,16.666666666666664,6,3,1
+Wolves,Everton,58.333333333333336,16.666666666666664,12,7,2
+Wolves,Manchester Utd,16.666666666666664,25.0,12,2,3
+Wolves,Liverpool,8.333333333333332,0.0,12,1,0
+Wolves,Norwich City,50.0,50.0,4,2,2
+Wolves,Arsenal,25.0,16.666666666666664,12,3,2
+Wolves,Leeds United,33.33333333333333,16.666666666666664,6,2,1
+Wolves,Nott'ham Forest,25.0,75.0,4,1,3
+Wolves,Brighton,16.666666666666664,41.66666666666667,12,2,5
+Wolves,Watford,66.66666666666666,0.0,6,4,0
+Wolves,Aston Villa,50.0,30.0,10,5,3
+Wolves,West Brom,0.0,50.0,2,0,1
+Wolves,Luton Town,50.0,50.0,2,1,1
+Wolves,Burnley,20.0,40.0,10,2,4
+Chelsea,Stoke City,75.0,12.5,8,6,1
+Chelsea,Manchester City,25.0,20.0,20,5,4
+Chelsea,West Ham,50.0,20.0,20,10,4
+Chelsea,Leicester City,50.0,33.33333333333333,18,9,6
+Chelsea,Southampton,50.0,27.77777777777778,18,9,5
+Chelsea,Bournemouth,57.14285714285714,14.285714285714285,14,8,2
+Chelsea,Newcastle Utd,61.111111111111114,11.11111111111111,18,11,2
+Chelsea,Middlesbrough,100.0,0.0,2,2,0
+Chelsea,Hull City,100.0,0.0,4,4,0
+Chelsea,Cardiff City,100.0,0.0,2,2,0
+Chelsea,Wolves,25.0,33.33333333333333,12,3,4
+Chelsea,Crystal Palace,85.0,0.0,20,17,0
+Chelsea,Tottenham,55.00000000000001,20.0,20,11,4
+Chelsea,Fulham,75.0,12.5,8,6,1
+Chelsea,Huddersfield,75.0,25.0,4,3,1
+Chelsea,Sunderland,66.66666666666666,16.666666666666664,6,4,1
+Chelsea,Sheffield Utd,50.0,33.33333333333333,6,3,2
+Chelsea,Brentford,16.666666666666664,33.33333333333333,6,1,2
+Chelsea,Everton,45.0,25.0,20,9,5
+Chelsea,Swansea City,62.5,25.0,8,5,2
+Chelsea,Manchester Utd,20.0,50.0,20,4,10
+Chelsea,Liverpool,15.0,50.0,20,3,10
+Chelsea,Norwich City,100.0,0.0,6,6,0
+Chelsea,Arsenal,35.0,25.0,20,7,5
+Chelsea,Leeds United,66.66666666666666,16.666666666666664,6,4,1
+Chelsea,Nott'ham Forest,25.0,50.0,4,1,2
+Chelsea,Brighton,57.14285714285714,28.57142857142857,14,8,4
+Chelsea,QPR,100.0,0.0,2,2,0
+Chelsea,Watford,75.0,16.666666666666664,12,9,2
+Chelsea,Aston Villa,64.28571428571429,14.285714285714285,14,9,2
+Chelsea,West Brom,60.0,20.0,10,6,2
+Chelsea,Luton Town,100.0,0.0,2,2,0
+Chelsea,Burnley,62.5,31.25,16,10,5
+Crystal Palace,Stoke City,75.0,12.5,8,6,1
+Crystal Palace,Manchester City,15.0,20.0,20,3,4
+Crystal Palace,West Ham,30.0,35.0,20,6,7
+Crystal Palace,Leicester City,38.88888888888889,22.22222222222222,18,7,4
+Crystal Palace,Southampton,38.88888888888889,16.666666666666664,18,7,3
+Crystal Palace,Bournemouth,42.857142857142854,28.57142857142857,14,6,4
+Crystal Palace,Newcastle Utd,27.77777777777778,38.88888888888889,18,5,7
+Crystal Palace,Middlesbrough,100.0,0.0,2,2,0
+Crystal Palace,Hull City,25.0,25.0,4,1,1
+Crystal Palace,Cardiff City,50.0,50.0,2,1,1
+Crystal Palace,Wolves,58.333333333333336,8.333333333333332,12,7,1
+Crystal Palace,Chelsea,15.0,0.0,20,3,0
+Crystal Palace,Tottenham,10.0,15.0,20,2,3
+Crystal Palace,Fulham,37.5,50.0,8,3,4
+Crystal Palace,Huddersfield,75.0,0.0,4,3,0
+Crystal Palace,Sunderland,33.33333333333333,16.666666666666664,6,2,1
+Crystal Palace,Sheffield Utd,66.66666666666666,0.0,6,4,0
+Crystal Palace,Brentford,16.666666666666664,83.33333333333334,6,1,5
+Crystal Palace,Everton,10.0,45.0,20,2,9
+Crystal Palace,Swansea City,12.5,50.0,8,1,4
+Crystal Palace,Manchester Utd,25.0,20.0,20,5,4
+Crystal Palace,Liverpool,25.0,10.0,20,5,2
+Crystal Palace,Norwich City,66.66666666666666,33.33333333333333,6,4,2
+Crystal Palace,Arsenal,15.0,30.0,20,3,6
+Crystal Palace,Leeds United,50.0,16.666666666666664,6,3,1
+Crystal Palace,Nott'ham Forest,0.0,75.0,4,0,3
+Crystal Palace,Brighton,21.428571428571427,50.0,14,3,7
+Crystal Palace,QPR,50.0,50.0,2,1,1
+Crystal Palace,Watford,50.0,25.0,12,6,3
+Crystal Palace,Aston Villa,35.714285714285715,14.285714285714285,14,5,2
+Crystal Palace,West Brom,50.0,20.0,10,5,2
+Crystal Palace,Luton Town,0.0,50.0,2,0,1
+Crystal Palace,Burnley,43.75,18.75,16,7,3
+Tottenham,Stoke City,62.5,12.5,8,5,1
+Tottenham,Manchester City,40.0,15.0,20,8,3
+Tottenham,West Ham,45.0,25.0,20,9,5
+Tottenham,Leicester City,61.111111111111114,11.11111111111111,18,11,2
+Tottenham,Southampton,55.55555555555556,22.22222222222222,18,10,4
+Tottenham,Bournemouth,71.42857142857143,14.285714285714285,14,10,2
+Tottenham,Newcastle Utd,50.0,11.11111111111111,18,9,2
+Tottenham,Middlesbrough,100.0,0.0,2,2,0
+Tottenham,Hull City,100.0,0.0,4,4,0
+Tottenham,Cardiff City,100.0,0.0,2,2,0
+Tottenham,Wolves,41.66666666666667,8.333333333333332,12,5,1
+Tottenham,Chelsea,25.0,20.0,20,5,4
+Tottenham,Crystal Palace,75.0,15.0,20,15,3
+Tottenham,Fulham,75.0,12.5,8,6,1
+Tottenham,Huddersfield,100.0,0.0,4,4,0
+Tottenham,Sunderland,66.66666666666666,33.33333333333333,6,4,2
+Tottenham,Sheffield Utd,66.66666666666666,16.666666666666664,6,4,1
+Tottenham,Brentford,33.33333333333333,50.0,6,2,3
+Tottenham,Everton,50.0,45.0,20,10,9
+Tottenham,Swansea City,75.0,25.0,8,6,2
+Tottenham,Manchester Utd,30.0,20.0,20,6,4
+Tottenham,Liverpool,10.0,30.0,20,2,6
+Tottenham,Norwich City,83.33333333333334,16.666666666666664,6,5,1
+Tottenham,Arsenal,30.0,35.0,20,6,7
+Tottenham,Leeds United,83.33333333333334,0.0,6,5,0
+Tottenham,Nott'ham Forest,100.0,0.0,4,4,0
+Tottenham,Brighton,64.28571428571429,7.142857142857142,14,9,1
+Tottenham,QPR,100.0,0.0,2,2,0
+Tottenham,Watford,66.66666666666666,25.0,12,8,3
+Tottenham,Aston Villa,64.28571428571429,0.0,14,9,0
+Tottenham,West Brom,40.0,40.0,10,4,4
+Tottenham,Luton Town,100.0,0.0,2,2,0
+Tottenham,Burnley,68.75,18.75,16,11,3
+Fulham,Manchester City,0.0,0.0,8,0,0
+Fulham,West Ham,25.0,12.5,8,2,1
+Fulham,Leicester City,50.0,16.666666666666664,6,3,1
+Fulham,Southampton,50.0,16.666666666666664,6,3,1
+Fulham,Bournemouth,33.33333333333333,16.666666666666664,6,2,1
+Fulham,Newcastle Utd,0.0,25.0,8,0,2
+Fulham,Cardiff City,50.0,0.0,2,1,0
+Fulham,Wolves,12.5,37.5,8,1,3
+Fulham,Chelsea,12.5,12.5,8,1,1
+Fulham,Crystal Palace,12.5,50.0,8,1,4
+Fulham,Tottenham,12.5,12.5,8,1,1
+Fulham,Huddersfield,50.0,0.0,2,1,0
+Fulham,Sheffield Utd,50.0,50.0,4,2,2
+Fulham,Brentford,25.0,25.0,4,1,1
+Fulham,Everton,50.0,25.0,8,4,2
+Fulham,Manchester Utd,12.5,12.5,8,1,1
+Fulham,Liverpool,12.5,25.0,8,1,2
+Fulham,Arsenal,12.5,25.0,8,1,2
+Fulham,Leeds United,50.0,0.0,4,2,0
+Fulham,Nott'ham Forest,75.0,0.0,4,3,0
+Fulham,Brighton,50.0,50.0,8,4,4
+Fulham,Watford,0.0,50.0,2,0,1
+Fulham,Aston Villa,16.666666666666664,0.0,6,1,0
+Fulham,West Brom,50.0,50.0,2,1,1
+Fulham,Luton Town,100.0,0.0,2,2,0
+Fulham,Burnley,16.666666666666664,33.33333333333333,6,1,2
+Huddersfield,Stoke City,0.0,50.0,2,0,1
+Huddersfield,Manchester City,0.0,25.0,4,0,1
+Huddersfield,West Ham,0.0,25.0,4,0,1
+Huddersfield,Leicester City,0.0,25.0,4,0,1
+Huddersfield,Southampton,0.0,75.0,4,0,3
+Huddersfield,Bournemouth,25.0,0.0,4,1,0
+Huddersfield,Newcastle Utd,25.0,0.0,4,1,0
+Huddersfield,Cardiff City,0.0,100.0,2,0,2
+Huddersfield,Wolves,100.0,0.0,2,2,0
+Huddersfield,Chelsea,0.0,25.0,4,0,1
+Huddersfield,Crystal Palace,25.0,0.0,4,1,0
+Huddersfield,Tottenham,0.0,0.0,4,0,0
+Huddersfield,Fulham,50.0,0.0,2,1,0
+Huddersfield,Everton,0.0,25.0,4,0,1
+Huddersfield,Swansea City,0.0,50.0,2,0,1
+Huddersfield,Manchester Utd,25.0,25.0,4,1,1
+Huddersfield,Liverpool,0.0,0.0,4,0,0
+Huddersfield,Arsenal,0.0,0.0,4,0,0
+Huddersfield,Brighton,25.0,25.0,4,1,1
+Huddersfield,Watford,50.0,0.0,4,2,0
+Huddersfield,West Brom,100.0,0.0,2,2,0
+Huddersfield,Burnley,0.0,75.0,4,0,3
+Sunderland,Stoke City,33.33333333333333,33.33333333333333,6,2,2
+Sunderland,Manchester City,0.0,0.0,6,0,0
+Sunderland,West Ham,0.0,50.0,6,0,3
+Sunderland,Leicester City,16.666666666666664,33.33333333333333,6,1,2
+Sunderland,Southampton,16.666666666666664,33.33333333333333,6,1,2
+Sunderland,Bournemouth,25.0,25.0,4,1,1
+Sunderland,Newcastle Utd,75.0,25.0,4,3,1
+Sunderland,Middlesbrough,0.0,0.0,2,0,0
+Sunderland,Hull City,50.0,25.0,4,2,1
+Sunderland,Chelsea,16.666666666666664,16.666666666666664,6,1,1
+Sunderland,Crystal Palace,50.0,16.666666666666664,6,3,1
+Sunderland,Tottenham,0.0,33.33333333333333,6,0,2
+Sunderland,Everton,33.33333333333333,16.666666666666664,6,2,1
+Sunderland,Swansea City,16.666666666666664,50.0,6,1,3
+Sunderland,Manchester Utd,16.666666666666664,16.666666666666664,6,1,1
+Sunderland,Liverpool,0.0,50.0,6,0,3
+Sunderland,Norwich City,50.0,0.0,2,1,0
+Sunderland,Arsenal,0.0,33.33333333333333,6,0,2
+Sunderland,QPR,0.0,0.0,2,0,0
+Sunderland,Watford,25.0,25.0,4,1,1
+Sunderland,Aston Villa,25.0,50.0,4,1,2
+Sunderland,West Brom,0.0,66.66666666666666,6,0,4
+Sunderland,Burnley,25.0,50.0,4,1,2
+Sheffield Utd,Manchester City,0.0,0.0,6,0,0
+Sheffield Utd,West Ham,16.666666666666664,33.33333333333333,6,1,2
+Sheffield Utd,Leicester City,0.0,0.0,4,0,0
+Sheffield Utd,Southampton,0.0,0.0,4,0,0
+Sheffield Utd,Bournemouth,25.0,50.0,4,1,2
+Sheffield Utd,Newcastle Utd,16.666666666666664,0.0,6,1,0
+Sheffield Utd,Wolves,33.33333333333333,16.666666666666664,6,2,1
+Sheffield Utd,Chelsea,16.666666666666664,33.33333333333333,6,1,2
+Sheffield Utd,Crystal Palace,33.33333333333333,0.0,6,2,0
+Sheffield Utd,Tottenham,16.666666666666664,16.666666666666664,6,1,1
+Sheffield Utd,Fulham,0.0,50.0,4,0,2
+Sheffield Utd,Brentford,50.0,0.0,2,1,0
+Sheffield Utd,Everton,33.33333333333333,16.666666666666664,6,2,1
+Sheffield Utd,Manchester Utd,16.666666666666664,16.666666666666664,6,1,1
+Sheffield Utd,Liverpool,0.0,0.0,6,0,0
+Sheffield Utd,Norwich City,100.0,0.0,2,2,0
+Sheffield Utd,Arsenal,16.666666666666664,16.666666666666664,6,1,1
+Sheffield Utd,Leeds United,0.0,0.0,2,0,0
+Sheffield Utd,Nott'ham Forest,0.0,0.0,2,0,0
+Sheffield Utd,Brighton,33.33333333333333,50.0,6,2,3
+Sheffield Utd,Watford,0.0,100.0,2,0,2
+Sheffield Utd,Aston Villa,33.33333333333333,33.33333333333333,6,2,2
+Sheffield Utd,West Brom,50.0,0.0,2,1,0
+Sheffield Utd,Luton Town,50.0,0.0,2,1,0
+Sheffield Utd,Burnley,33.33333333333333,16.666666666666664,6,2,1
+Brentford,Manchester City,33.33333333333333,0.0,6,2,0
+Brentford,West Ham,83.33333333333334,0.0,6,5,0
+Brentford,Leicester City,0.0,50.0,4,0,2
+Brentford,Southampton,75.0,0.0,4,3,0
+Brentford,Bournemouth,50.0,50.0,4,2,2
+Brentford,Newcastle Utd,0.0,16.666666666666664,6,0,1
+Brentford,Wolves,33.33333333333333,16.666666666666664,6,2,1
+Brentford,Chelsea,50.0,33.33333333333333,6,3,2
+Brentford,Crystal Palace,0.0,83.33333333333334,6,0,5
+Brentford,Tottenham,16.666666666666664,50.0,6,1,3
+Brentford,Fulham,50.0,25.0,4,2,1
+Brentford,Sheffield Utd,50.0,0.0,2,1,0
+Brentford,Everton,33.33333333333333,16.666666666666664,6,2,1
+Brentford,Manchester Utd,16.666666666666664,16.666666666666664,6,1,1
+Brentford,Liverpool,16.666666666666664,16.666666666666664,6,1,1
+Brentford,Norwich City,50.0,0.0,2,1,0
+Brentford,Arsenal,16.666666666666664,16.666666666666664,6,1,1
+Brentford,Leeds United,25.0,50.0,4,1,2
+Brentford,Nott'ham Forest,50.0,50.0,4,2,2
+Brentford,Brighton,16.666666666666664,33.33333333333333,6,1,2
+Brentford,Watford,100.0,0.0,2,2,0
+Brentford,Aston Villa,16.666666666666664,50.0,6,1,3
+Brentford,Luton Town,100.0,0.0,2,2,0
+Brentford,Burnley,50.0,0.0,4,2,0
+Everton,Stoke City,50.0,12.5,8,4,1
+Everton,Manchester City,5.0,25.0,20,1,5
+Everton,West Ham,45.0,15.0,20,9,3
+Everton,Leicester City,38.88888888888889,27.77777777777778,18,7,5
+Everton,Southampton,44.44444444444444,16.666666666666664,18,8,3
+Everton,Bournemouth,42.857142857142854,14.285714285714285,14,6,2
+Everton,Newcastle Utd,44.44444444444444,16.666666666666664,18,8,3
+Everton,Middlesbrough,50.0,50.0,2,1,1
+Everton,Hull City,25.0,50.0,4,1,2
+Everton,Cardiff City,100.0,0.0,2,2,0
+Everton,Wolves,25.0,16.666666666666664,12,3,2
+Everton,Chelsea,30.0,25.0,20,6,5
+Everton,Crystal Palace,45.0,45.0,20,9,9
+Everton,Tottenham,5.0,45.0,20,1,9
+Everton,Fulham,25.0,25.0,8,2,2
+Everton,Huddersfield,75.0,25.0,4,3,1
+Everton,Sunderland,50.0,16.666666666666664,6,3,1
+Everton,Sheffield Utd,50.0,16.666666666666664,6,3,1
+Everton,Brentford,50.0,16.666666666666664,6,3,1
+Everton,Swansea City,12.5,62.5,8,1,5
+Everton,Manchester Utd,15.0,30.0,20,3,6
+Everton,Liverpool,10.0,45.0,20,2,9
+Everton,Norwich City,50.0,16.666666666666664,6,3,1
+Everton,Arsenal,30.0,10.0,20,6,2
+Everton,Leeds United,50.0,33.33333333333333,6,3,2
+Everton,Nott'ham Forest,50.0,50.0,4,2,2
+Everton,Brighton,42.857142857142854,28.57142857142857,14,6,4
+Everton,QPR,100.0,0.0,2,2,0
+Everton,Watford,33.33333333333333,33.33333333333333,12,4,4
+Everton,Aston Villa,21.428571428571427,21.428571428571427,14,3,3
+Everton,West Brom,60.0,30.0,10,6,3
+Everton,Luton Town,0.0,50.0,2,0,1
+Everton,Burnley,56.25,6.25,16,9,1
+Swansea City,Stoke City,25.0,12.5,8,2,1
+Swansea City,Manchester City,0.0,12.5,8,0,1
+Swansea City,West Ham,25.0,25.0,8,2,2
+Swansea City,Leicester City,25.0,12.5,8,2,1
+Swansea City,Southampton,25.0,12.5,8,2,1
+Swansea City,Bournemouth,0.0,33.33333333333333,6,0,2
+Swansea City,Newcastle Utd,33.33333333333333,33.33333333333333,6,2,2
+Swansea City,Middlesbrough,0.0,50.0,2,0,1
+Swansea City,Hull City,50.0,0.0,4,2,0
+Swansea City,Chelsea,12.5,25.0,8,1,2
+Swansea City,Crystal Palace,37.5,50.0,8,3,4
+Swansea City,Tottenham,0.0,25.0,8,0,2
+Swansea City,Huddersfield,50.0,50.0,2,1,1
+Swansea City,Sunderland,33.33333333333333,50.0,6,2,3
+Swansea City,Everton,25.0,62.5,8,2,5
+Swansea City,Manchester Utd,37.5,12.5,8,3,1
+Swansea City,Liverpool,37.5,0.0,8,3,0
+Swansea City,Norwich City,50.0,0.0,2,1,0
+Swansea City,Arsenal,50.0,0.0,8,4,0
+Swansea City,Brighton,0.0,0.0,2,0,0
+Swansea City,QPR,50.0,50.0,2,1,1
+Swansea City,Watford,33.33333333333333,16.666666666666664,6,2,1
+Swansea City,Aston Villa,100.0,0.0,4,4,0
+Swansea City,West Brom,50.0,25.0,8,4,2
+Swansea City,Burnley,83.33333333333334,0.0,6,5,0
+Manchester Utd,Stoke City,37.5,50.0,8,3,4
+Manchester Utd,Manchester City,35.0,15.0,20,7,3
+Manchester Utd,West Ham,50.0,25.0,20,10,5
+Manchester Utd,Leicester City,55.55555555555556,27.77777777777778,18,10,5
+Manchester Utd,Southampton,44.44444444444444,44.44444444444444,18,8,8
+Manchester Utd,Bournemouth,64.28571428571429,14.285714285714285,14,9,2
+Manchester Utd,Newcastle Utd,55.55555555555556,22.22222222222222,18,10,4
+Manchester Utd,Middlesbrough,100.0,0.0,2,2,0
+Manchester Utd,Hull City,50.0,50.0,4,2,2
+Manchester Utd,Cardiff City,50.0,0.0,2,1,0
+Manchester Utd,Wolves,58.333333333333336,25.0,12,7,3
+Manchester Utd,Chelsea,30.0,50.0,20,6,10
+Manchester Utd,Crystal Palace,55.00000000000001,20.0,20,11,4
+Manchester Utd,Tottenham,50.0,20.0,20,10,4
+Manchester Utd,Fulham,75.0,12.5,8,6,1
+Manchester Utd,Huddersfield,50.0,25.0,4,2,1
+Manchester Utd,Sunderland,66.66666666666666,16.666666666666664,6,4,1
+Manchester Utd,Sheffield Utd,66.66666666666666,16.666666666666664,6,4,1
+Manchester Utd,Brentford,66.66666666666666,16.666666666666664,6,4,1
+Manchester Utd,Everton,55.00000000000001,30.0,20,11,6
+Manchester Utd,Swansea City,50.0,12.5,8,4,1
+Manchester Utd,Liverpool,30.0,40.0,20,6,8
+Manchester Utd,Norwich City,83.33333333333334,0.0,6,5,0
+Manchester Utd,Arsenal,30.0,25.0,20,6,5
+Manchester Utd,Leeds United,66.66666666666666,33.33333333333333,6,4,2
+Manchester Utd,Nott'ham Forest,75.0,0.0,4,3,0
+Manchester Utd,Brighton,57.14285714285714,0.0,14,8,0
+Manchester Utd,QPR,100.0,0.0,2,2,0
+Manchester Utd,Watford,66.66666666666666,8.333333333333332,12,8,1
+Manchester Utd,Aston Villa,64.28571428571429,21.428571428571427,14,9,3
+Manchester Utd,West Brom,40.0,30.0,10,4,3
+Manchester Utd,Luton Town,100.0,0.0,2,2,0
+Manchester Utd,Burnley,56.25,37.5,16,9,6
+Liverpool,Stoke City,75.0,12.5,8,6,1
+Liverpool,Manchester City,35.0,35.0,20,7,7
+Liverpool,West Ham,65.0,15.0,20,13,3
+Liverpool,Leicester City,66.66666666666666,11.11111111111111,18,12,2
+Liverpool,Southampton,66.66666666666666,22.22222222222222,18,12,4
+Liverpool,Bournemouth,78.57142857142857,7.142857142857142,14,11,1
+Liverpool,Newcastle Utd,66.66666666666666,22.22222222222222,18,12,4
+Liverpool,Middlesbrough,100.0,0.0,2,2,0
+Liverpool,Hull City,25.0,25.0,4,1,1
+Liverpool,Cardiff City,100.0,0.0,2,2,0
+Liverpool,Wolves,91.66666666666666,0.0,12,11,0
+Liverpool,Chelsea,35.0,50.0,20,7,10
+Liverpool,Crystal Palace,65.0,10.0,20,13,2
+Liverpool,Tottenham,60.0,30.0,20,12,6
+Liverpool,Fulham,62.5,25.0,8,5,2
+Liverpool,Huddersfield,100.0,0.0,4,4,0
+Liverpool,Sunderland,50.0,50.0,6,3,3
+Liverpool,Sheffield Utd,100.0,0.0,6,6,0
+Liverpool,Brentford,66.66666666666666,16.666666666666664,6,4,1
+Liverpool,Everton,45.0,45.0,20,9,9
+Liverpool,Swansea City,62.5,0.0,8,5,0
+Liverpool,Manchester Utd,30.0,40.0,20,6,8
+Liverpool,Norwich City,83.33333333333334,16.666666666666664,6,5,1
+Liverpool,Arsenal,45.0,35.0,20,9,7
+Liverpool,Leeds United,66.66666666666666,16.666666666666664,6,4,1
+Liverpool,Nott'ham Forest,75.0,0.0,4,3,0
+Liverpool,Brighton,57.14285714285714,28.57142857142857,14,8,4
+Liverpool,QPR,100.0,0.0,2,2,0
+Liverpool,Watford,75.0,8.333333333333332,12,9,1
+Liverpool,Aston Villa,71.42857142857143,14.285714285714285,14,10,2
+Liverpool,West Brom,40.0,60.0,10,4,6
+Liverpool,Luton Town,50.0,50.0,2,1,1
+Liverpool,Burnley,75.0,12.5,16,12,2
+Norwich City,Stoke City,0.0,50.0,2,0,1
+Norwich City,Manchester City,16.666666666666664,16.666666666666664,6,1,1
+Norwich City,West Ham,0.0,33.33333333333333,6,0,2
+Norwich City,Leicester City,16.666666666666664,16.666666666666664,6,1,1
+Norwich City,Southampton,33.33333333333333,0.0,6,2,0
+Norwich City,Bournemouth,50.0,25.0,4,2,1
+Norwich City,Newcastle Utd,33.33333333333333,33.33333333333333,6,2,2
+Norwich City,Wolves,0.0,50.0,4,0,2
+Norwich City,Chelsea,0.0,0.0,6,0,0
+Norwich City,Crystal Palace,0.0,33.33333333333333,6,0,2
+Norwich City,Tottenham,0.0,16.666666666666664,6,0,1
+Norwich City,Sunderland,50.0,0.0,2,1,0
+Norwich City,Sheffield Utd,0.0,0.0,2,0,0
+Norwich City,Brentford,50.0,0.0,2,1,0
+Norwich City,Everton,33.33333333333333,16.666666666666664,6,2,1
+Norwich City,Swansea City,50.0,0.0,2,1,0
+Norwich City,Manchester Utd,16.666666666666664,0.0,6,1,0
+Norwich City,Liverpool,0.0,16.666666666666664,6,0,1
+Norwich City,Arsenal,0.0,33.33333333333333,6,0,2
+Norwich City,Leeds United,0.0,0.0,2,0,0
+Norwich City,Brighton,0.0,50.0,4,0,2
+Norwich City,Watford,33.33333333333333,0.0,6,2,0
+Norwich City,Aston Villa,16.666666666666664,0.0,6,1,0
+Norwich City,West Brom,50.0,0.0,2,1,0
+Norwich City,Burnley,25.0,25.0,4,1,1
+Arsenal,Stoke City,62.5,12.5,8,5,1
+Arsenal,Manchester City,15.0,20.0,20,3,4
+Arsenal,West Ham,65.0,20.0,20,13,4
+Arsenal,Leicester City,61.111111111111114,16.666666666666664,18,11,3
+Arsenal,Southampton,44.44444444444444,33.33333333333333,18,8,6
+Arsenal,Bournemouth,78.57142857142857,14.285714285714285,14,11,2
+Arsenal,Newcastle Utd,77.77777777777779,5.555555555555555,18,14,1
+Arsenal,Middlesbrough,50.0,50.0,2,1,1
+Arsenal,Hull City,75.0,25.0,4,3,1
+Arsenal,Cardiff City,100.0,0.0,2,2,0
+Arsenal,Wolves,58.333333333333336,16.666666666666664,12,7,2
+Arsenal,Chelsea,40.0,25.0,20,8,5
+Arsenal,Crystal Palace,55.00000000000001,30.0,20,11,6
+Arsenal,Tottenham,35.0,35.0,20,7,7
+Arsenal,Fulham,62.5,25.0,8,5,2
+Arsenal,Huddersfield,100.0,0.0,4,4,0
+Arsenal,Sunderland,66.66666666666666,33.33333333333333,6,4,2
+Arsenal,Sheffield Utd,66.66666666666666,16.666666666666664,6,4,1
+Arsenal,Brentford,66.66666666666666,16.666666666666664,6,4,1
+Arsenal,Everton,60.0,10.0,20,12,2
+Arsenal,Swansea City,50.0,0.0,8,4,0
+Arsenal,Manchester Utd,45.0,25.0,20,9,5
+Arsenal,Liverpool,20.0,35.0,20,4,7
+Arsenal,Norwich City,66.66666666666666,33.33333333333333,6,4,2
+Arsenal,Leeds United,83.33333333333334,16.666666666666664,6,5,1
+Arsenal,Nott'ham Forest,75.0,0.0,4,3,0
+Arsenal,Brighton,42.857142857142854,21.428571428571427,14,6,3
+Arsenal,QPR,100.0,0.0,2,2,0
+Arsenal,Watford,75.0,8.333333333333332,12,9,1
+Arsenal,Aston Villa,64.28571428571429,0.0,14,9,0
+Arsenal,West Brom,70.0,10.0,10,7,1
+Arsenal,Luton Town,100.0,0.0,2,2,0
+Arsenal,Burnley,75.0,18.75,16,12,3
+Leeds United,Manchester City,16.666666666666664,16.666666666666664,6,1,1
+Leeds United,West Ham,16.666666666666664,16.666666666666664,6,1,1
+Leeds United,Leicester City,16.666666666666664,33.33333333333333,6,1,2
+Leeds United,Southampton,50.0,33.33333333333333,6,3,2
+Leeds United,Bournemouth,50.0,0.0,2,1,0
+Leeds United,Newcastle Utd,33.33333333333333,50.0,6,2,3
+Leeds United,Wolves,50.0,16.666666666666664,6,3,1
+Leeds United,Chelsea,16.666666666666664,16.666666666666664,6,1,1
+Leeds United,Crystal Palace,33.33333333333333,16.666666666666664,6,2,1
+Leeds United,Tottenham,16.666666666666664,0.0,6,1,0
+Leeds United,Fulham,50.0,0.0,4,2,0
+Leeds United,Sheffield Utd,100.0,0.0,2,2,0
+Leeds United,Brentford,25.0,50.0,4,1,2
+Leeds United,Everton,16.666666666666664,33.33333333333333,6,1,2
+Leeds United,Manchester Utd,0.0,33.33333333333333,6,0,2
+Leeds United,Liverpool,16.666666666666664,16.666666666666664,6,1,1
+Leeds United,Norwich City,100.0,0.0,2,2,0
+Leeds United,Arsenal,0.0,16.666666666666664,6,0,1
+Leeds United,Nott'ham Forest,50.0,0.0,2,1,0
+Leeds United,Brighton,0.0,50.0,6,0,3
+Leeds United,Watford,100.0,0.0,2,2,0
+Leeds United,Aston Villa,16.666666666666664,33.33333333333333,6,1,2
+Leeds United,West Brom,100.0,0.0,2,2,0
+Leeds United,Burnley,75.0,25.0,4,3,1
+Nott'ham Forest,Manchester City,0.0,25.0,4,0,1
+Nott'ham Forest,West Ham,50.0,0.0,4,2,0
+Nott'ham Forest,Leicester City,50.0,0.0,2,1,0
+Nott'ham Forest,Southampton,100.0,0.0,2,2,0
+Nott'ham Forest,Bournemouth,0.0,50.0,4,0,2
+Nott'ham Forest,Newcastle Utd,25.0,0.0,4,1,0
+Nott'ham Forest,Wolves,0.0,75.0,4,0,3
+Nott'ham Forest,Chelsea,25.0,50.0,4,1,2
+Nott'ham Forest,Crystal Palace,25.0,75.0,4,1,3
+Nott'ham Forest,Tottenham,0.0,0.0,4,0,0
+Nott'ham Forest,Fulham,25.0,0.0,4,1,0
+Nott'ham Forest,Sheffield Utd,100.0,0.0,2,2,0
+Nott'ham Forest,Brentford,0.0,50.0,4,0,2
+Nott'ham Forest,Everton,0.0,50.0,4,0,2
+Nott'ham Forest,Manchester Utd,25.0,0.0,4,1,0
+Nott'ham Forest,Liverpool,25.0,0.0,4,1,0
+Nott'ham Forest,Arsenal,25.0,0.0,4,1,0
+Nott'ham Forest,Leeds United,50.0,0.0,2,1,0
+Nott'ham Forest,Brighton,25.0,25.0,4,1,1
+Nott'ham Forest,Aston Villa,25.0,25.0,4,1,1
+Nott'ham Forest,Luton Town,0.0,100.0,2,0,2
+Nott'ham Forest,Burnley,50.0,50.0,2,1,1
+Brighton,Stoke City,0.0,100.0,2,0,2
+Brighton,Manchester City,7.142857142857142,7.142857142857142,14,1,1
+Brighton,West Ham,42.857142857142854,50.0,14,6,7
+Brighton,Leicester City,16.666666666666664,33.33333333333333,12,2,4
+Brighton,Southampton,25.0,50.0,12,3,6
+Brighton,Bournemouth,40.0,10.0,10,4,1
+Brighton,Newcastle Utd,35.714285714285715,50.0,14,5,7
+Brighton,Cardiff City,0.0,0.0,2,0,0
+Brighton,Wolves,41.66666666666667,41.66666666666667,12,5,5
+Brighton,Chelsea,14.285714285714285,28.57142857142857,14,2,4
+Brighton,Crystal Palace,28.57142857142857,50.0,14,4,7
+Brighton,Tottenham,28.57142857142857,7.142857142857142,14,4,1
+Brighton,Fulham,0.0,50.0,8,0,4
+Brighton,Huddersfield,50.0,25.0,4,2,1
+Brighton,Sheffield Utd,16.666666666666664,50.0,6,1,3
+Brighton,Brentford,50.0,33.33333333333333,6,3,2
+Brighton,Everton,28.57142857142857,28.57142857142857,14,4,4
+Brighton,Swansea City,100.0,0.0,2,2,0
+Brighton,Manchester Utd,42.857142857142854,0.0,14,6,0
+Brighton,Liverpool,14.285714285714285,28.57142857142857,14,2,4
+Brighton,Norwich City,50.0,50.0,4,2,2
+Brighton,Arsenal,35.714285714285715,21.428571428571427,14,5,3
+Brighton,Leeds United,50.0,50.0,6,3,3
+Brighton,Nott'ham Forest,50.0,25.0,4,2,1
+Brighton,Watford,50.0,37.5,8,4,3
+Brighton,Aston Villa,20.0,20.0,10,2,2
+Brighton,West Brom,25.0,25.0,4,1,1
+Brighton,Luton Town,50.0,0.0,2,1,0
+Brighton,Burnley,16.666666666666664,58.333333333333336,12,2,7
+QPR,Stoke City,0.0,50.0,2,0,1
+QPR,Manchester City,0.0,50.0,2,0,1
+QPR,West Ham,0.0,50.0,2,0,1
+QPR,Leicester City,50.0,0.0,2,1,0
+QPR,Southampton,0.0,0.0,2,0,0
+QPR,Newcastle Utd,50.0,0.0,2,1,0
+QPR,Hull City,0.0,0.0,2,0,0
+QPR,Chelsea,0.0,0.0,2,0,0
+QPR,Crystal Palace,0.0,50.0,2,0,1
+QPR,Tottenham,0.0,0.0,2,0,0
+QPR,Sunderland,100.0,0.0,2,2,0
+QPR,Everton,0.0,0.0,2,0,0
+QPR,Swansea City,0.0,50.0,2,0,1
+QPR,Manchester Utd,0.0,0.0,2,0,0
+QPR,Liverpool,0.0,0.0,2,0,0
+QPR,Arsenal,0.0,0.0,2,0,0
+QPR,Aston Villa,50.0,50.0,2,1,1
+QPR,West Brom,100.0,0.0,2,2,0
+QPR,Burnley,50.0,0.0,2,1,0
+Watford,Stoke City,16.666666666666664,16.666666666666664,6,1,1
+Watford,Manchester City,0.0,0.0,12,0,0
+Watford,West Ham,33.33333333333333,8.333333333333332,12,4,1
+Watford,Leicester City,25.0,8.333333333333332,12,3,1
+Watford,Southampton,16.666666666666664,41.66666666666667,12,2,5
+Watford,Bournemouth,20.0,70.0,10,2,7
+Watford,Newcastle Utd,50.0,40.0,10,5,4
+Watford,Middlesbrough,50.0,50.0,2,1,1
+Watford,Hull City,50.0,0.0,2,1,0
+Watford,Cardiff City,100.0,0.0,2,2,0
+Watford,Wolves,33.33333333333333,0.0,6,2,0
+Watford,Chelsea,8.333333333333332,16.666666666666664,12,1,2
+Watford,Crystal Palace,25.0,25.0,12,3,3
+Watford,Tottenham,8.333333333333332,25.0,12,1,3
+Watford,Fulham,50.0,50.0,2,1,1
+Watford,Huddersfield,50.0,0.0,4,2,0
+Watford,Sunderland,50.0,25.0,4,2,1
+Watford,Sheffield Utd,0.0,100.0,2,0,2
+Watford,Brentford,0.0,0.0,2,0,0
+Watford,Everton,33.33333333333333,33.33333333333333,12,4,4
+Watford,Swansea City,50.0,16.666666666666664,6,3,1
+Watford,Manchester Utd,25.0,8.333333333333332,12,3,1
+Watford,Liverpool,16.666666666666664,8.333333333333332,12,2,1
+Watford,Norwich City,66.66666666666666,0.0,6,4,0
+Watford,Arsenal,16.666666666666664,8.333333333333332,12,2,1
+Watford,Leeds United,0.0,0.0,2,0,0
+Watford,Brighton,12.5,37.5,8,1,3
+Watford,Aston Villa,83.33333333333334,0.0,6,5,0
+Watford,West Brom,50.0,33.33333333333333,6,3,2
+Watford,Burnley,20.0,20.0,10,2,2
+Aston Villa,Stoke City,25.0,0.0,4,1,0
+Aston Villa,Manchester City,7.142857142857142,14.285714285714285,14,1,2
+Aston Villa,West Ham,14.285714285714285,42.857142857142854,14,2,6
+Aston Villa,Leicester City,33.33333333333333,16.666666666666664,12,4,2
+Aston Villa,Southampton,33.33333333333333,16.666666666666664,12,4,2
+Aston Villa,Bournemouth,37.5,12.5,8,3,1
+Aston Villa,Newcastle Utd,28.57142857142857,35.714285714285715,14,4,5
+Aston Villa,Hull City,50.0,0.0,2,1,0
+Aston Villa,Wolves,20.0,30.0,10,2,3
+Aston Villa,Chelsea,21.428571428571427,14.285714285714285,14,3,2
+Aston Villa,Crystal Palace,50.0,14.285714285714285,14,7,2
+Aston Villa,Tottenham,35.714285714285715,0.0,14,5,0
+Aston Villa,Fulham,83.33333333333334,0.0,6,5,0
+Aston Villa,Sunderland,25.0,50.0,4,1,2
+Aston Villa,Sheffield Utd,33.33333333333333,33.33333333333333,6,2,2
+Aston Villa,Brentford,33.33333333333333,50.0,6,2,3
+Aston Villa,Everton,57.14285714285714,21.428571428571427,14,8,3
+Aston Villa,Swansea City,0.0,0.0,4,0,0
+Aston Villa,Manchester Utd,14.285714285714285,21.428571428571427,14,2,3
+Aston Villa,Liverpool,14.285714285714285,14.285714285714285,14,2,2
+Aston Villa,Norwich City,83.33333333333334,0.0,6,5,0
+Aston Villa,Arsenal,35.714285714285715,0.0,14,5,0
+Aston Villa,Leeds United,50.0,33.33333333333333,6,3,2
+Aston Villa,Nott'ham Forest,50.0,25.0,4,2,1
+Aston Villa,Brighton,60.0,20.0,10,6,2
+Aston Villa,QPR,0.0,50.0,2,0,1
+Aston Villa,Watford,16.666666666666664,0.0,6,1,0
+Aston Villa,West Brom,33.33333333333333,33.33333333333333,6,2,2
+Aston Villa,Luton Town,100.0,0.0,2,2,0
+Aston Villa,Burnley,40.0,40.0,10,4,4
+West Brom,Stoke City,50.0,25.0,8,4,2
+West Brom,Manchester City,0.0,10.0,10,0,1
+West Brom,West Ham,10.0,40.0,10,1,4
+West Brom,Leicester City,20.0,20.0,10,2,2
+West Brom,Southampton,30.0,20.0,10,3,2
+West Brom,Bournemouth,33.33333333333333,16.666666666666664,6,2,1
+West Brom,Newcastle Utd,25.0,37.5,8,2,3
+West Brom,Middlesbrough,0.0,100.0,2,0,2
+West Brom,Hull City,50.0,50.0,4,2,2
+West Brom,Wolves,50.0,50.0,2,1,1
+West Brom,Chelsea,20.0,20.0,10,2,2
+West Brom,Crystal Palace,30.0,20.0,10,3,2
+West Brom,Tottenham,20.0,40.0,10,2,4
+West Brom,Fulham,0.0,50.0,2,0,1
+West Brom,Huddersfield,0.0,0.0,2,0,0
+West Brom,Sunderland,33.33333333333333,66.66666666666666,6,2,4
+West Brom,Sheffield Utd,50.0,0.0,2,1,0
+West Brom,Everton,10.0,30.0,10,1,3
+West Brom,Swansea City,25.0,25.0,8,2,2
+West Brom,Manchester Utd,30.0,30.0,10,3,3
+West Brom,Liverpool,0.0,60.0,10,0,6
+West Brom,Norwich City,50.0,0.0,2,1,0
+West Brom,Arsenal,20.0,10.0,10,2,1
+West Brom,Leeds United,0.0,0.0,2,0,0
+West Brom,Brighton,50.0,25.0,4,2,1
+West Brom,QPR,0.0,0.0,2,0,0
+West Brom,Watford,16.666666666666664,33.33333333333333,6,1,2
+West Brom,Aston Villa,33.33333333333333,33.33333333333333,6,2,2
+West Brom,Burnley,37.5,50.0,8,3,4
+Luton Town,Manchester City,0.0,0.0,2,0,0
+Luton Town,West Ham,0.0,0.0,2,0,0
+Luton Town,Bournemouth,50.0,0.0,2,1,0
+Luton Town,Newcastle Utd,50.0,50.0,2,1,1
+Luton Town,Wolves,0.0,50.0,2,0,1
+Luton Town,Chelsea,0.0,0.0,2,0,0
+Luton Town,Crystal Palace,50.0,50.0,2,1,1
+Luton Town,Tottenham,0.0,0.0,2,0,0
+Luton Town,Fulham,0.0,0.0,2,0,0
+Luton Town,Sheffield Utd,50.0,0.0,2,1,0
+Luton Town,Brentford,0.0,0.0,2,0,0
+Luton Town,Everton,50.0,50.0,2,1,1
+Luton Town,Manchester Utd,0.0,0.0,2,0,0
+Luton Town,Liverpool,0.0,50.0,2,0,1
+Luton Town,Arsenal,0.0,0.0,2,0,0
+Luton Town,Nott'ham Forest,0.0,100.0,2,0,2
+Luton Town,Brighton,50.0,0.0,2,1,0
+Luton Town,Aston Villa,0.0,0.0,2,0,0
+Luton Town,Burnley,0.0,50.0,2,0,1
+Burnley,Stoke City,50.0,33.33333333333333,6,3,2
+Burnley,Manchester City,6.25,12.5,16,1,2
+Burnley,West Ham,25.0,25.0,16,4,4
+Burnley,Leicester City,21.428571428571427,28.57142857142857,14,3,4
+Burnley,Southampton,42.857142857142854,28.57142857142857,14,6,4
+Burnley,Bournemouth,60.0,0.0,10,6,0
+Burnley,Newcastle Utd,14.285714285714285,28.57142857142857,14,2,4
+Burnley,Middlesbrough,50.0,50.0,2,1,1
+Burnley,Hull City,50.0,50.0,4,2,2
+Burnley,Cardiff City,100.0,0.0,2,2,0
+Burnley,Wolves,40.0,40.0,10,4,4
+Burnley,Chelsea,6.25,31.25,16,1,5
+Burnley,Crystal Palace,37.5,18.75,16,6,3
+Burnley,Tottenham,12.5,18.75,16,2,3
+Burnley,Fulham,50.0,33.33333333333333,6,3,2
+Burnley,Huddersfield,25.0,75.0,4,1,3
+Burnley,Sunderland,25.0,50.0,4,1,2
+Burnley,Sheffield Utd,50.0,16.666666666666664,6,3,1
+Burnley,Brentford,50.0,0.0,4,2,0
+Burnley,Everton,37.5,6.25,16,6,1
+Burnley,Swansea City,16.666666666666664,0.0,6,1,0
+Burnley,Manchester Utd,6.25,37.5,16,1,6
+Burnley,Liverpool,12.5,12.5,16,2,2
+Burnley,Norwich City,50.0,25.0,4,2,1
+Burnley,Arsenal,6.25,18.75,16,1,3
+Burnley,Leeds United,0.0,25.0,4,0,1
+Burnley,Nott'ham Forest,0.0,50.0,2,0,1
+Burnley,Brighton,25.0,58.333333333333336,12,3,7
+Burnley,QPR,50.0,0.0,2,1,0
+Burnley,Watford,60.0,20.0,10,6,2
+Burnley,Aston Villa,20.0,40.0,10,2,4
+Burnley,West Brom,12.5,50.0,8,1,4
+Burnley,Luton Town,50.0,50.0,2,1,1
