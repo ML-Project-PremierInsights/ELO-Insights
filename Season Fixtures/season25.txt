@@ -48,4 +48,5 @@ Oldham Athletic : 278
 Brighton : 250
 Huddersfield : 250
 Brentford : 250
+Luton Town : 250
 Swindon Town : 237

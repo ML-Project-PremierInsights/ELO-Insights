@@ -38,6 +38,7 @@ Bournemouth : 1450
 Brighton : 1450
 Huddersfield : 1450
 Brentford : 1450
+Luton Town : 1450
 Oldham Athletic : 1489
 Chelsea : 1485
 Everton : 1480

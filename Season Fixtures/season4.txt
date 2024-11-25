@@ -46,6 +46,7 @@ Bournemouth : 1300
 Brighton : 1300
 Huddersfield : 1300
 Brentford : 1300
+Luton Town : 1300
 Leicester City : 1295
 Swindon Town : 1287
 Ipswich Town : 1251

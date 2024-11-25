@@ -48,4 +48,5 @@ Wimbledon : 299
 Barnsley : 234
 Oldham Athletic : 128
 Brentford : 100
+Luton Town : 100
 Swindon Town : 87

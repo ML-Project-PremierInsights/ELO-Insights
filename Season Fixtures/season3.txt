@@ -44,6 +44,7 @@ Bournemouth : 1350
 Brighton : 1350
 Huddersfield : 1350
 Brentford : 1350
+Luton Town : 1350
 Swindon Town : 1337
 Norwich City : 1378
 Middlesbrough : 1327

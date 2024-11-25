@@ -41,6 +41,7 @@ Bournemouth : 1400
 Brighton : 1400
 Huddersfield : 1400
 Brentford : 1400
+Luton Town : 1400
 Southampton : 1439
 Oldham Athletic : 1428
 Middlesbrough : 1377

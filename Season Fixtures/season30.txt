@@ -47,5 +47,6 @@ Bradford City : 222
 Nott'ham Forest : 201
 Wimbledon : 199
 Barnsley : 134
+Luton Town : 100
 Swindon Town : 87
 Oldham Athletic : 78

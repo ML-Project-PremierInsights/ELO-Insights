@@ -48,4 +48,5 @@ Bournemouth : 950
 Brighton : 950
 Huddersfield : 950
 Brentford : 950
+Luton Town : 950
 Swindon Town : 937
